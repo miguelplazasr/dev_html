@@ -1,41 +1,18 @@
-#Ambiente HTML
+#Ambiente Desarrollo HTML
 
 ##Requisitos
 
-*Node
-*npm
-*npm install gulp-cli -g
+- [Node.js](https://nodejs.org/es/)
 
-mkdir dir
+Si va a usar GIT debe estar instalado en la máquina.
 
-npm init
+##Uso
 
-```
-name: (dev_html)
-version: (1.0.0)
-description: Project gulp, browser-sync
-entry point: (index.js) app.js
-test command:
-git repository:
-keywords:
-author: miguelplazasr@gmail.com
-license: (ISC)
-```
+- Clonar el repositorio ```git clone https://github.com/miguelplazasr/dev_html.git```
+- Ingresar al directorio dev_html
+- Ejecutar el comando ```npm install``` en una sesion de terminal
+- Una vez termine la instalación ejecutar el comando ```gulp```
 
-Install browser-synk
-```
-npm install browser-sync --save-dev
-```
+Todos los archivos deben estar dentro de la carpata public 
 
-Install gulp
-```
-npm install gulp --save-dev
-```
-
-Install express
-```
-npm install express
-```
-
-Create gulpfile.js
 

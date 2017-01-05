@@ -6,15 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/miguelplazasr/dev_html.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelplazasr/dev_html.git"
   },
   "author": "miguelplazasr@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.5",
     "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
     "gulp-nodemon": "^2.2.1"
   },
   "dependencies": {
