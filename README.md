@@ -4,6 +4,7 @@
 
 *Node
 *npm
+*npm install gulp-cli -g
 
 mkdir dir
 
